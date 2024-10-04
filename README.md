@@ -92,7 +92,7 @@ A combinação de SQL para análise exploratória e Power BI para visualização
 Durante a interpretação dos dados, alguns insights revelaram informações importantes sobre a distribuição dos cargos e os salários no campo de ciência de dados.
 
 1. **Cargos Mais Representativos**: 
-   - A análise inicial mostrou que 4 cargos principais representam aproximadamente 75% da base de dados: Data Scientist, Data Engineer, Data Analyst e Machine Learning Engineer.
+   - A análise inicial mostrou que 4 cargos principais representam aproximadamente 75% da base de dados: **Data Scientist, Data Engineer, Data Analyst e Machine Learning Engineer.**
    - Essa concentração sugere uma predominância significativa de certos cargos no mercado de ciência de dados, o que pode refletir uma maior demanda ou especialização nessas funções.
 
 2. **Distribuição Salarial**:
@@ -111,22 +111,24 @@ Para facilitar a compreensão e visualização dos insights obtidos da análise 
 2. **Gráfico de barras (Cargos vs Média Salarial)**:
    - Exibe a média salarial para os 4 cargos principais, oferecendo uma comparação direta entre as funções mais representativas da base de dados.
    
-3. **Gráfico de rosca (Remote Ratio vs Contagem de Cargos)**:
+3. **Gráfico de rosca (Modalidade vs Contagem de Cargos)**:
    - Representa a distribuição dos cargos conforme o nível de trabalho remoto (0%, 50% ou 100%), facilitando a compreensão de como a flexibilidade do trabalho remoto se distribui entre os cargos.
 
-4. **Gráfico de rosca (Employment Type vs Contagem de Cargos)**:
+4. **Gráfico de rosca (Tipo de Contrato vs Contagem de Cargos)**:
    - Mostra a distribuição de tipos de emprego (tempo integral, meio período, contrato, etc.) entre os cargos, útil para entender como os diferentes tipos de contratos estão presentes na área de ciência de dados.
 
 5. **Gráficos de Coluna**:
-   - **Employment Type vs Média Salarial**: Compara os tipos de emprego e suas respectivas médias salariais.
-   - **Company Location vs Média Salarial**: Apresenta a distribuição dos salários médios com base na localização das empresas.
-   - **Company Size vs Média Salarial**: Exibe a média salarial conforme o tamanho da empresa (pequena, média, grande).
-   - **Experience Level vs Média Salarial**: Mostra a média salarial de acordo com os níveis de experiência (Junior, Pleno, Sênior).
+   - **Tipo de Contrato vs Média Salarial**: Compara os tipos de emprego e suas respectivas médias salariais.
+   - **Local da Empresa vs Média Salarial**: Apresenta a distribuição dos salários médios com base na localização das empresas.
+   - **Tamanho da Empresa vs Média Salarial**: Exibe a média salarial conforme o tamanho da empresa (pequena, média, grande).
+   - **Nível de Experiência vs Média Salarial**: Mostra a média salarial de acordo com os níveis de experiência (Junior, Pleno, Sênior).
 
 Esses gráficos oferecem uma visão ampla dos dados, ajudando a identificar padrões salariais e distribuições de cargos com base em fatores como tipo de emprego, nível de experiência e localização.
 
 #### Link para o Painel:
-Para interagir com o painel e explorar visualmente os dados, acesse-o através do seguinte link: https://app.powerbi.com/view?r=eyJrIjoiZDM2MjlmNDYtNjM2Ni00MGFjLWFlOWItMmJjZmVmZTlmMmZlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
+Para interagir com o painel e explorar visualmente os dados, acesse-o através do seguinte link:
+
+https://app.powerbi.com/view?r=eyJrIjoiZDM2MjlmNDYtNjM2Ni00MGFjLWFlOWItMmJjZmVmZTlmMmZlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
 
 #### Alterações no Power Query:
 Durante a preparação dos dados no Power BI, foram feitas transformações no Power Query para melhorar a precisão e a visualização dos gráficos. [Detalhar as mudanças feitas no Power Query]
