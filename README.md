@@ -125,7 +125,7 @@ Para facilitar a compreensão e visualização dos insights obtidos da análise 
 
 Esses gráficos oferecem uma visão ampla dos dados, ajudando a identificar padrões salariais e distribuições de cargos com base em fatores como tipo de emprego, nível de experiência e localização.
 
-#### Link para o Painel:
+#### Link para o Painel
 Para interagir com o painel e explorar visualmente os dados, acesse-o através do seguinte link:
 
 https://app.powerbi.com/view?r=eyJrIjoiZDM2MjlmNDYtNjM2Ni00MGFjLWFlOWItMmJjZmVmZTlmMmZlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
@@ -135,4 +135,21 @@ Durante a preparação dos dados no Power BI, foram feitas transformações no P
 
 #### Capturas de Tela:
 [Adicionar prrints]
+
+## Conclusão
+
+A análise dos dados salariais de profissionais da área de ciência de dados revelou insights valiosos sobre a distribuição de cargos e salários. Focando nos 4 principais cargos, que representavam 75% da base, identificou-se uma distribuição salarial equilibrada, com pouca diferença entre a média e a mediana, o que indicou a ausência de outliers significativos.
+
+Além disso, as visualizações interativas no Power BI proporcionaram uma compreensão mais profunda, facilitando comparações salariais por cargo, tipo de emprego, nível de experiência, localização e outros fatores. A escolha pela média salarial como métrica principal foi justificada pela análise da distribuição, e as ferramentas utilizadas no projeto auxiliaram na extração e comunicação dos insights de forma eficaz.
+
+Este estudo pode ser expandido com uma análise mais detalhada por localização geográfica ou nível de experiência, trazendo ainda mais insights sobre o mercado de trabalho em ciência de dados.
+
+## Ferramentas Utilizadas
+
+1. **SQL**: Utilizado para a exploração inicial dos dados, identificação de padrões e geração de insights, como a distribuição de cargos e comparação entre média e mediana salarial.
+   
+2. **Power BI**: Ferramenta utilizada para criar dashboards interativos que facilitaram a visualização e comunicação dos dados e insights obtidos.
+
+3. **Power Query (dentro do Power BI)**: Usado para transformar e preparar os dados antes de criar os visuais, garantindo uma análise precisa e clara. [citar as coisas que eu fiz no power query]
+
 
