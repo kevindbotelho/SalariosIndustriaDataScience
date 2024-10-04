@@ -146,10 +146,12 @@ Este estudo pode ser expandido com uma análise mais detalhada por localização
 
 ## Ferramentas Utilizadas
 
-1. **SQL**: Utilizado para a exploração inicial dos dados, identificação de padrões e geração de insights, como a distribuição de cargos e comparação entre média e mediana salarial.
-   
-2. **Power BI**: Ferramenta utilizada para criar dashboards interativos que facilitaram a visualização e comunicação dos dados e insights obtidos.
+1. **Google BigQuery**: A base de dados foi hospedada no Google BigQuery, permitindo consultas diretamente na nuvem e usá-lo como fonte de dados no Power Bi para eu me conectar aos dados.
 
-3. **Power Query (dentro do Power BI)**: Usado para transformar e preparar os dados antes de criar os visuais, garantindo uma análise precisa e clara. [citar as coisas que eu fiz no power query]
+2. **SQL**: Utilizado para a exploração inicial dos dados, identificação de padrões e geração de insights, como a distribuição de cargos e comparação entre média e mediana salarial.
+   
+3. **Power BI**: Ferramenta utilizada para criar dashboards interativos que facilitaram a visualização e comunicação dos dados e insights obtidos.
+
+4. **Power Query (dentro do Power BI)**: Usado para transformar e preparar os dados antes de criar os visuais, garantindo uma análise precisa e clara. [citar as coisas que eu fiz no power query]
 
 
