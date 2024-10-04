@@ -82,3 +82,17 @@ A análise foi realizada em duas etapas principais: a exploração e manipulaç�
    - O Power BI foi escolhido por sua facilidade em criar gráficos interativos e visuais dinâmicos, tornando a análise acessível e visualmente atraente para aqueles que desejam explorar os dados de forma mais profunda.
 
 A combinação de SQL para análise exploratória e Power BI para visualização interativa permitiu uma abordagem completa, proporcionando tanto rigor técnico na análise dos dados quanto clareza na apresentação dos resultados.
+
+## Análises e Insights
+
+Durante a interpretação dos dados, alguns insights revelaram informações importantes sobre a distribuição dos cargos e os salários no campo de ciência de dados.
+
+1. **Cargos Mais Representativos**: 
+   - A análise inicial mostrou que 4 cargos principais representam aproximadamente 75% da base de dados: [Cargo 1], [Cargo 2], [Cargo 3] e [Cargo 4].
+   - Essa concentração sugere uma predominância significativa de certos cargos no mercado de ciência de dados, o que pode refletir uma maior demanda ou especialização nessas funções.
+
+2. **Distribuição Salarial**:
+   - A análise da distribuição salarial para os cargos mais frequentes revelou que a média e a mediana dos salários são bastante próximas, o que indica uma distribuição uniforme, sem grandes variações ou outliers.
+   - Isso levou à escolha da **média salarial** como a principal métrica de comparação, já que reflete bem a tendência salarial nesses cargos.
+
+Esses insights oferecem uma visão clara sobre como o mercado de ciência de dados está estruturado, com foco em alguns cargos específicos e uma faixa salarial relativamente estável nesses papéis.
