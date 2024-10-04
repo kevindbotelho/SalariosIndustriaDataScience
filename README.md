@@ -88,7 +88,7 @@ A combinação de SQL para análise exploratória e Power BI para visualização
 Durante a interpretação dos dados, alguns insights revelaram informações importantes sobre a distribuição dos cargos e os salários no campo de ciência de dados.
 
 1. **Cargos Mais Representativos**: 
-   - A análise inicial mostrou que 4 cargos principais representam aproximadamente 75% da base de dados: [Cargo 1], [Cargo 2], [Cargo 3] e [Cargo 4].
+   - A análise inicial mostrou que 4 cargos principais representam aproximadamente 75% da base de dados: Data Scientist, Data Engineer, Data Analyst e Machine Learning Engineer.
    - Essa concentração sugere uma predominância significativa de certos cargos no mercado de ciência de dados, o que pode refletir uma maior demanda ou especialização nessas funções.
 
 2. **Distribuição Salarial**:
