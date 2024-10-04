@@ -12,6 +12,10 @@ A análise foi realizada em duas etapas principais: a exploração e manipulaç�
 
 ## Metodologia
 
+A análise foi dividida em duas partes principais: a exploração e manipulação dos dados com SQL, seguida da visualização interativa utilizando o Power BI. O processo começou explorando os cargos mais frequentes na base de dados e foi evoluindo conforme novos insights surgiam.
+
+Além das consultas principais que orientaram o projeto, outras queries foram realizadas para investigar diferentes aspectos do conjunto de dados, como a distribuição salarial por níveis de experiência, análise por localização e variações salariais. Essas consultas adicionais estão disponíveis na pasta **queries** do repositório para consulta.
+
 1. **Análise Exploratória com SQL**:
    - A exploração dos dados começou com SQL para entender a composição da base e analisar as distribuições salariais. À medida que novas questões surgiam, as consultas SQL evoluíram, permitindo aprofundar a análise. O foco final foi nos 4 cargos mais frequentes, que representavam 75% do total.
    
@@ -96,3 +100,37 @@ Durante a interpretação dos dados, alguns insights revelaram informações imp
    - Isso levou à escolha da **média salarial** como a principal métrica de comparação, já que reflete bem a tendência salarial nesses cargos.
 
 Esses insights oferecem uma visão clara sobre como o mercado de ciência de dados está estruturado, com foco em alguns cargos específicos e uma faixa salarial relativamente estável nesses papéis.
+
+## Visualização dos Dados (Power BI)
+
+Para facilitar a compreensão e visualização dos insights obtidos da análise SQL, foi criado um painel no Power BI que reúne diferentes visuais em uma única tela. Abaixo estão os principais gráficos utilizados no painel e suas respectivas funções:
+
+1. **Gráfico de linha (Ano vs Média Salarial)**:
+   - Esse gráfico mostra a evolução da média salarial ao longo dos anos, permitindo a identificação de possíveis tendências de crescimento ou estabilização salarial nos cargos analisados.
+   
+2. **Gráfico de barras (Cargos vs Média Salarial)**:
+   - Exibe a média salarial para os 4 cargos principais, oferecendo uma comparação direta entre as funções mais representativas da base de dados.
+   
+3. **Gráfico de rosca (Remote Ratio vs Contagem de Cargos)**:
+   - Representa a distribuição dos cargos conforme o nível de trabalho remoto (0%, 50% ou 100%), facilitando a compreensão de como a flexibilidade do trabalho remoto se distribui entre os cargos.
+
+4. **Gráfico de rosca (Employment Type vs Contagem de Cargos)**:
+   - Mostra a distribuição de tipos de emprego (tempo integral, meio período, contrato, etc.) entre os cargos, útil para entender como os diferentes tipos de contratos estão presentes na área de ciência de dados.
+
+5. **Gráficos de Coluna**:
+   - **Employment Type vs Média Salarial**: Compara os tipos de emprego e suas respectivas médias salariais.
+   - **Company Location vs Média Salarial**: Apresenta a distribuição dos salários médios com base na localização das empresas.
+   - **Company Size vs Média Salarial**: Exibe a média salarial conforme o tamanho da empresa (pequena, média, grande).
+   - **Experience Level vs Média Salarial**: Mostra a média salarial de acordo com os níveis de experiência (Junior, Pleno, Sênior).
+
+Esses gráficos oferecem uma visão ampla dos dados, ajudando a identificar padrões salariais e distribuições de cargos com base em fatores como tipo de emprego, nível de experiência e localização.
+
+#### Link para o Painel:
+Para interagir com o painel e explorar visualmente os dados, acesse-o através do seguinte link: https://app.powerbi.com/view?r=eyJrIjoiZDM2MjlmNDYtNjM2Ni00MGFjLWFlOWItMmJjZmVmZTlmMmZlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
+
+#### Alterações no Power Query:
+Durante a preparação dos dados no Power BI, foram feitas transformações no Power Query para melhorar a precisão e a visualização dos gráficos. [Detalhar as mudanças feitas no Power Query]
+
+#### Capturas de Tela:
+[Adicionar prrints]
+
