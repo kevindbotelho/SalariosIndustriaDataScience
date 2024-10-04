@@ -14,7 +14,7 @@ A análise foi realizada em duas etapas principais: a exploração e manipulaç�
 
 A análise foi dividida em duas partes principais: a exploração e manipulação dos dados com SQL, seguida da visualização interativa utilizando o Power BI. O processo começou explorando os cargos mais frequentes na base de dados e foi evoluindo conforme novos insights surgiam.
 
-Além das consultas principais que orientaram o projeto, outras queries foram realizadas para investigar diferentes aspectos do conjunto de dados, como a distribuição salarial por níveis de experiência, análise por localização e variações salariais. Essas consultas adicionais estão disponíveis na pasta **queries** do repositório para consulta.
+Além das consultas principais que orientaram o projeto, outras queries foram realizadas para investigar diferentes aspectos do conjunto de dados, como a distribuição salarial por níveis de experiência, análise por localização e variações salariais. Essas consultas adicionais estão disponíveis no **topo deste repositório**.
 
 1. **Análise Exploratória com SQL**:
    - A exploração dos dados começou com SQL para entender a composição da base e analisar as distribuições salariais. À medida que novas questões surgiam, as consultas SQL evoluíram, permitindo aprofundar a análise. O foco final foi nos 4 cargos mais frequentes, que representavam 75% do total.
