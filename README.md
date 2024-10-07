@@ -108,22 +108,58 @@ Para facilitar a compreensão e visualização dos insights obtidos da análise 
 1. **Gráfico de linha (Ano vs Média Salarial)**:
    - Esse gráfico mostra a evolução da média salarial ao longo dos anos, permitindo a identificação de possíveis tendências de crescimento ou estabilização salarial nos cargos analisados.
 
-   <img src="imagens/Média Salarial por Tamanho da Empresa.png">
+
+<img src="imagens/Média Salarial por Ano.png">
+
    
 2. **Gráfico de barras (Cargos vs Média Salarial)**:
    - Exibe a média salarial para os 4 cargos principais, oferecendo uma comparação direta entre as funções mais representativas da base de dados.
+
+
+<img src="imagens/Média Salarial por Cargo.png">
+
    
 3. **Gráfico de rosca (Modalidade vs Contagem de Cargos)**:
-   - Representa a distribuição dos cargos conforme o nível de trabalho remoto (0%, 50% ou 100%), facilitando a compreensão de como a flexibilidade do trabalho remoto se distribui entre os cargos.
+   - Representa a distribuição dos cargos conforme o nível de trabalho remoto, facilitando a compreensão de como a flexibilidade do trabalho remoto se distribui entre os cargos.
+
+
+<img src="imagens/% Colaborador por  Modalidade de Trabalho.png">
+
 
 4. **Gráfico de rosca (Tipo de Contrato vs Contagem de Cargos)**:
    - Mostra a distribuição de tipos de emprego (tempo integral, meio período, contrato, etc.) entre os cargos, útil para entender como os diferentes tipos de contratos estão presentes na área de ciência de dados.
 
-5. **Gráficos de Coluna**:
-   - **Tipo de Contrato vs Média Salarial**: Compara os tipos de emprego e suas respectivas médias salariais.
-   - **Local da Empresa vs Média Salarial**: Apresenta a distribuição dos salários médios com base na localização das empresas.
-   - **Tamanho da Empresa vs Média Salarial**: Exibe a média salarial conforme o tamanho da empresa (pequena, média, grande).
-   - **Nível de Experiência vs Média Salarial**: Mostra a média salarial de acordo com os níveis de experiência (Junior, Pleno, Sênior).
+
+<img src="imagens/% Colaborador por Tipo de Contrato.png">
+
+
+5. **Gráfico de Coluna (País do Colaborador vs Média Salarial)**:
+   - Apresenta a distribuição dos salários médios com base na localização dos colaboradores, permitindo identificar possíveis variações salariais entre diferentes regiões.
+
+
+<img src="imagens/Média Salarial por País do Colaborador.png">
+
+
+6. **Gráfico de Coluna (País da Empresa vs Média Salarial)**:
+   - Apresenta a distribuição dos salários médios com base na localização das empresas, permitindo identificar possíveis variações salariais entre diferentes regiões.
+
+
+<img src="imagens/Média Salarial por País de Empresa.png">
+
+
+7. **Gráfico de Coluna (Tamanho da Empresa vs Média Salarial)**:
+   - Exibe a média salarial conforme o tamanho da empresa (pequena, média, grande), destacando como o porte da empresa pode influenciar as remunerações.
+
+
+<img src="imagens/Média Salarial por Tamanho da Empresa.png">
+
+
+8. **Gráfico de Coluna (Nível de Experiência vs Média Salarial)**:
+   - Mostra a média salarial de acordo com os níveis de experiência dos profissionais (Junior, Pleno, Sênior), permitindo uma comparação clara entre como os salários evoluem com a experiência.
+
+
+<img src="imagens/Média Salarial por Nível de Experiência.png">
+
 
 Esses gráficos oferecem uma visão ampla dos dados, ajudando a identificar padrões salariais e distribuições de cargos com base em fatores como tipo de emprego, nível de experiência e localização.
 
@@ -134,9 +170,6 @@ https://app.powerbi.com/view?r=eyJrIjoiZDM2MjlmNDYtNjM2Ni00MGFjLWFlOWItMmJjZmVmZ
 
 #### Alterações no Power Query:
 Durante a preparação dos dados no Power BI, foram feitas transformações no Power Query para melhorar a precisão e a visualização dos gráficos. [Detalhar as mudanças feitas no Power Query]
-
-#### Capturas de Tela:
-[Adicionar prrints]
 
 ## Conclusão
 
