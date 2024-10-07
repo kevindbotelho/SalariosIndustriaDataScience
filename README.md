@@ -1,5 +1,9 @@
 # Estudo de Salários na Indústria de Data Science
 
+
+<img src="imagens/Painel.png">
+
+
 ## Introdução
 
 O projeto visa analisar dados salariais de profissionais de ciência de dados, fornecendo uma visão sobre como os salários variam de acordo com o cargo, experiência e localização. A base de dados inclui informações sobre o título do cargo, ano de trabalho, tipo de emprego, local de trabalho e experiência.
