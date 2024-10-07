@@ -123,14 +123,14 @@ Para facilitar a compreensão e visualização dos insights obtidos da análise 
    - Representa a distribuição dos cargos conforme o nível de trabalho remoto, facilitando a compreensão de como a flexibilidade do trabalho remoto se distribui entre os cargos.
 
 
-<img src="imagens/% Colaborador por  Modalidade de Trabalho.png">
+<img src="imagens/Percent Colaborador por  Modalidade de Trabalho.png">
 
 
 4. **Gráfico de rosca (Tipo de Contrato vs Contagem de Cargos)**:
    - Mostra a distribuição de tipos de emprego (tempo integral, meio período, contrato, etc.) entre os cargos, útil para entender como os diferentes tipos de contratos estão presentes na área de ciência de dados.
 
 
-<img src="imagens/% Colaborador por Tipo de Contrato.png">
+<img src="imagens/Percent Colaborador por Tipo de Contrato.png">
 
 
 5. **Gráfico de Coluna (País do Colaborador vs Média Salarial)**:
