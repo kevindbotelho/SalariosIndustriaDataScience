@@ -107,6 +107,8 @@ Para facilitar a compreensão e visualização dos insights obtidos da análise 
 
 1. **Gráfico de linha (Ano vs Média Salarial)**:
    - Esse gráfico mostra a evolução da média salarial ao longo dos anos, permitindo a identificação de possíveis tendências de crescimento ou estabilização salarial nos cargos analisados.
+
+   <img src="imagens/Média Salarial por Tamanho da Empresa.png">
    
 2. **Gráfico de barras (Cargos vs Média Salarial)**:
    - Exibe a média salarial para os 4 cargos principais, oferecendo uma comparação direta entre as funções mais representativas da base de dados.
