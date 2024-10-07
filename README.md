@@ -199,6 +199,6 @@ Este estudo pode ser expandido com uma análise mais detalhada por localização
    
 3. **Power BI**: Ferramenta utilizada para criar dashboards interativos que facilitaram a visualização e comunicação dos dados e insights obtidos.
 
-4. **Power Query (dentro do Power BI)**: Usado para transformar e preparar os dados antes de criar os visuais, garantindo uma análise precisa e clara. [citar as coisas que eu fiz no power query]
+4. **Power Query (dentro do Power BI)**: Usado para transformar e preparar os dados antes de criar os visuais, garantindo uma análise precisa e clara.
 
 
