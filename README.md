@@ -173,7 +173,15 @@ Para interagir com o painel e explorar visualmente os dados, acesse-o através d
 https://app.powerbi.com/view?r=eyJrIjoiZDM2MjlmNDYtNjM2Ni00MGFjLWFlOWItMmJjZmVmZTlmMmZlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
 
 #### Alterações no Power Query:
-Durante a preparação dos dados no Power BI, foram feitas transformações no Power Query para melhorar a precisão e a visualização dos gráficos. [Detalhar as mudanças feitas no Power Query]
+No Power Query, foram aplicadas transformações para melhorar a legibilidade dos dados e garantir que o painel fosse mais intuitivo para os usuários finais.
+
+1. **Tradução de Siglas para Termos Completos**:
+   - Colunas foram ajustadas para traduzir siglas técnicas em termos mais descritivos. Por exemplo, a coluna de tipos de emprego passou a exibir "Full Time", "Part Time", "Contract" e "Freelance", em vez de "FT", "PT", "CT", "FL". Da mesma forma, as colunas de **trabalho remoto**, **nível de experiência** e **tamanho da empresa** foram modificadas para termos como "No Remote Work", "Entry-Level" e "Small", facilitando o entendimento.
+   
+2. **Criação de Colunas de Hierarquia para Ordenação**:
+   - Foi criada uma coluna adicional para ordenar corretamente o **nível de experiência**, garantindo que os gráficos exibissem os dados do nível mais baixo ("Entry-Level") ao mais alto ("Executive-Level"), em vez da ordem alfabética padrão do Power BI.
+
+Essas mudanças garantiram uma exibição clara e organizada das informações, tornando o painel mais intuitivo e facilitando a interpretação dos dados pelos usuários.
 
 ## Conclusão
 
